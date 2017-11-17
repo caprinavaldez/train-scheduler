@@ -1,0 +1,16 @@
+body { 
+  background: url('http://www.redorbit.com/media/uploads/2015/02/train.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.display-3,
+.lead {
+	font-family: 'Rozha One', serif;
+}
+
+.card {
+	font-family: 'Bitter', serif;
+}
